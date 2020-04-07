@@ -22,8 +22,6 @@ h2{
     text-align: center;
 }
 
-
-
 .buscador {
     width: 100%;
   background: #2c4e58;
@@ -70,12 +68,17 @@ p b{
     color: #ffde62;
 }
 
+.preescolar-y-primaria {
+    display: flex;
+    justify-content: space-between;
+}
+
 #prescolar{
-    width: 33.3%;
+    width: 50%;
     margin: 0;
 }
 
-#primaria{
+/* #primaria{
     width: 30%;
     margin: 0;
-}
+} */
