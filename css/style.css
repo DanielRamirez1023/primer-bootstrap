@@ -22,8 +22,6 @@ h2{
     text-align: center;
 }
 
-
-
 .buscador {
     width: 100%;
   background: #2c4e58;
@@ -69,4 +67,47 @@ h10{
 p b{
     color: #ffde62;
 }
+
+.preescolar-y-primaria {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#prescolar{
+    width: 50%;
+    margin-right: 20px;
+    border: 3px solid #ffde62;
+    padding: 10px;
+    
+}
+
+#primaria{
+    border: 3px solid #ffde62;
+    padding: 10px;
+}
+
+#segundaria{
+    border: 3px solid #ffde62;
+    padding: 10px;
+}
+
+#universidad{
+    border: 3px solid #ffde62;
+    padding: 10px;
+}
+
+.todo h5{
+    color: #ffde62;
+}
+
+.hob{
+
+    border: 5px solid #ffde62;
+    margin-left: 255px;
+    width: 300px;
+    padding: 10px;
+   
+}
+
 
