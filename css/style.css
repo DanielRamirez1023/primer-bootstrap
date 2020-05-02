@@ -18,6 +18,16 @@
     display: block;
 }
 
+#noticias h4{
+
+    margin-left: 100px;
+}
+
+#vinculos h4{
+
+    margin-left: 60px;
+}
+
 h2{
     text-align: center;
 }
@@ -108,6 +118,10 @@ p b{
     width: 300px;
     padding: 10px;
    
+}
+
+.facebook  i:hover {
+    color:  #ffde62;
 }
 
 
